@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    text-align: center;
+
+}
+
+
+h1{
+    color: white;
+    font-size: 45px;
+}
+
+article{
+    width: 500px;
+    margin: auto;
+}
+p{
+    font-size: 24px;
+    color: white;
+}
+
+h2{
+    color: darkblue;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3{
+    color: yellow;
+    font-size: 32px;
+}
+
+h4{
+    color: white;
+    font-size: 24px;
+}
+
+img{
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 100px;
+    border-width: 3px;
+}
+
